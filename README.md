@@ -29,7 +29,13 @@ An Arduino Uno based assistive device that helps detect obstacles using an ultra
 
 ## Images
 
-(Add your project photos here)
+<img width="3024" height="4032" alt="image0" src="https://github.com/user-attachments/assets/53220d04-b6e6-46cd-9531-198d2de61fdf" />
+
+<img width="4032" height="3024" alt="image2" src="https://github.com/user-attachments/assets/423fca46-6a53-4a11-b3a7-841d84dd3082" />
+
+<img width="4032" height="3024" alt="image1" src="https://github.com/user-attachments/assets/49d063dc-4638-4bf1-9474-9cf644f20a0d" />
+
+
 
 ## Future Improvements
 
